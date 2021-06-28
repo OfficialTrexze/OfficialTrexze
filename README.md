@@ -15,7 +15,12 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 </br>
-  
+</br>
+</br>
+</br>
+</br>
+</br>
+
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OfficialTrexze&show_icons=true&theme=gotham" alt="OfficialTrexze" />
