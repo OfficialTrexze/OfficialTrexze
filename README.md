@@ -1,6 +1,6 @@
 <h1 align="center">Hello I am Trexze
   
-## I am a FiveM Developer
+## I am a FiveM Developer and Backend Developer
 
 ### Social Accounts: 
   
