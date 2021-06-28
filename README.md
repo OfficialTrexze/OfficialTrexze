@@ -18,8 +18,6 @@
 </br>
 </br>
 </br>
-</br>
-</br>
 
 <h3 align="center">📈 My GitHub Stats
 
