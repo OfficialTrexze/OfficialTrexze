@@ -21,6 +21,6 @@
 </br>
 </br>
 
-<h1 align="center">📈 My GitHub Stats
+<h3 align="center">📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=OfficialTrexze&show_icons=true&theme=gotham" alt="OfficialTrexze" />
